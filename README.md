@@ -8,6 +8,6 @@ Quite rough around the edges, more polishing in the app and documentation itself
 
 
 # Requirements
-raylib installation
-g++ as a compiler
+- raylib installation
+- g++ as a compiler
 
